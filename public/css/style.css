@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.table-manage {
+    height: 500px;
+    width: auto;
+    background-color: #DBE4C9;
+box-shadow: 9px 10px 16px -8px rgba(170, 165, 165, 0.233);
+-webkit-box-shadow: 9px 10px 16px -8px rgba(128, 104, 104, 0.219);
+-moz-box-shadow: 9px 10px 16px -8px rgba(128, 104, 104, 0.11);
+}
